@@ -1,0 +1,2284 @@
+{
+  "coverPage": {
+    "type": "startPage",
+    "units": 7,
+    "title": "Actualización en SST para la Gestión de Terceros",
+    "subTitle": "",
+    "module": "¡Hola!",
+    "courseName": "Para el Negocio Cárnico es muy importante la gestión de terceros: Temporales, Contratistas y Agentes Comerciales. <br><br> Te damos la bienvenida a este espacio de formación con el objetivo de que puedas conocer y aplicar en tus procesos el Manual de Terceros establecido por Grupo Nutresa, frente al Sistema de Seguridad y Salud en el Trabajo.",
+    "logoCourse": "img/logo.png",
+    "buttonStart": "Explorar módulo",
+    "modal": {
+      "type": "videoModal",
+      "title": "Recomendaciçon Título",
+      "text": "Texto de recomendación.",
+      "buttonModal": "Guía de Navegación",
+      "closedModal": true,
+      "urlVideo": "video/guia-navegacion-impuestos.mp4"
+    },
+    "background": {
+      "bgGrid": "img/cover/bg-grid-1.png",
+      "bici": "img/cover/bici-1.png",
+      "city": "img/cover/city-1.png",
+      "semaforo": "img/cover/semaforo-1.png"
+    },
+    "footer": {
+      "label": "Curso: <h3><b>Actualizaciones en SST</b></h3>"
+    }
+  },
+
+  "page1": {
+    "type": "menuPage",
+    "title": "Contenido",
+    "text": "A lo largo de este recorrido visitarás 6 puntos claves. Deberás aprobar cada uno de ellos para continuar con el siguiente.",
+    "text2": "¡Buena suerte en este recorrido!",
+    "background": {
+      "bici": "img/cover/bici-1.png",
+      "size": 43,
+      "position": [
+        {
+          "posY": -129,
+          "posX": 483
+        },
+        {
+          "posY": -127,
+          "posX": 485
+        },
+        {
+          "posY": -127,
+          "posX": 484
+        },
+        {
+          "posY": -127,
+          "posX": 482
+        },
+        {
+          "posY": -127,
+          "posX": 484
+        },
+        {
+          "posY": -127,
+          "posX": 484
+        },
+        {
+          "posY": -127,
+          "posX": 484
+        }
+      ]
+    },
+    "Units": [
+      {
+        "unit": 1,
+        "title": "Título 1",
+        "text": "Texto Item",
+        "imgBg": "img/units/unit-1.png",
+        "imgBg2": "img/units/imgTitlesub-1.png",
+        "goTo": 2,
+        "fullVisited": false,
+        "position": {
+          "posX": 470,
+          "posY": -166
+        },
+        "bgPos2": {
+          "posX": 540,
+          "posY": -93
+        },
+        "btnPosition": {
+          "posX": 400,
+          "posY": -143
+        }
+      },
+      {
+        "unit": 2,
+        "title": "Título 2",
+        "text": "Texto Item",
+        "imgBg": "img/units/unit-2.png",
+        "imgBg2": "img/units/imgTitlesub-2.png",
+        "goTo": 3,
+        "fullVisited": false,
+        "position": {
+          "posX": 260,
+          "posY": 38
+        },
+        "bgPos2": {
+          "posX": 426,
+          "posY": 38
+        },
+        "btnPosition": {
+          "posX": 200,
+          "posY": 129
+        }
+      },
+      {
+        "unit": 3,
+        "title": "Título 3",
+        "text": "Texto Item",
+        "imgBg": "img/units/unit-3.png",
+        "imgBg2": "img/units/imgTitlesub-3.png",
+        "goTo": 4,
+        "fullVisited": false,
+        "position": {
+          "posX": 470,
+          "posY": 193
+        },
+        "bgPos2": {
+          "posX": 459,
+          "posY": 244
+        },
+        "btnPosition": {
+          "posX": 448,
+          "posY": 385
+        }
+      },
+      {
+        "unit": 4,
+        "title": "Título 4",
+        "text": "Texto Item",
+        "imgBg": "img/units/unit-4.png",
+        "imgBg2": "img/units/imgTitlesub-4.png",
+        "goTo": 11,
+        "fullVisited": false,
+        "position": {
+          "posX": 786,
+          "posY": 164
+        },
+        "bgPos2": {
+          "posX": 793,
+          "posY": 247
+        },
+        "btnPosition": {
+          "posX": 687,
+          "posY": 375
+        }
+      },
+      {
+        "unit": 5,
+        "title": "Título 5",
+        "text": "Texto Item",
+        "imgBg": "img/units/unit-5.png",
+        "imgBg2": "",
+        "goTo": 12,
+        "fullVisited": false,
+        "position": {
+          "posX": 580,
+          "posY": -39
+        },
+        "bgPos2": {
+          "posX": -30,
+          "posY": -199
+        },
+        "btnPosition": {
+          "posX": 750,
+          "posY": 133
+        }
+      },
+      {
+        "unit": 6,
+        "title": "Título 6",
+        "text": "Texto Item",
+        "imgBg": "img/units/unit-6.png",
+        "imgBg2": "",
+        "goTo": 15,
+        "fullVisited": false,
+        "position": {
+          "posX": 885,
+          "posY": 41
+        },
+        "bgPos2": {
+          "posX": 34,
+          "posY": 10
+        },
+        "btnPosition": {
+          "posX": 910,
+          "posY": 143
+        }
+      }
+    ],
+    "instruction": {
+      "text": "Da <b>clic</b> en iniciar para que el ciclista avance por los diferentes puntos.",
+      "posY": 585,
+      "posX": 30,
+      "size": 330
+    }
+  },
+
+  "page2": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "endUnit": true,
+    "nameUnit": "unit1",
+    "title": "Nivel de Clasificación de Servicio",
+    "text": "",
+    "imgTitle": "img/imgTitle-1.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "03",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "multimedia": {
+      "text": "<p class='mB-05 dBlock'>Como tercero es importante que conozcas cuál es el Nivel de Clasificación de Servicio al que perteneces. </p><p class='mB-05 dBlock'>Este es el resultado de combinar la afiliación al Sistema General de Riesgos Laborales de los trabajadores de tu empresa en función de las actividades contratadas y la periodicidad en la relación contractual con el Negocio Cárnico.</p><p class='mB-05 dBlock'>Los niveles de clasificación de servicio van de 1 a 4, y sirven para aplicar y exigir determinados requisitos del manual de terceros de Grupo Nutresa.</p><p class='mB-05 dBlock'>Te invitamos a conocer los tipos de relación contractual que tenemos con nuestros terceros.</p>",
+      "Units": [
+        {
+          "unit": 1,
+          "title": "Título 1",
+          "text": "Texto Item",
+          "imgButton": "img/2/slide-1.png",
+          "info": {
+            "title": "Contratista ocasional",
+            "text": "<p>Es aquel que es contratado para prestar un servicio específico en un tiempo determinado o con una duración incluso de horas, sin una frecuencia definida y se da a una solicitud de la demanda de manera interrumpida. Son servicios donde su ejecución no podrá ser mayor a un mes continuo. </p>"
+          }
+        },
+        {
+          "unit": 2,
+          "title": "Título 2",
+          "text": "Texto Item",
+          "imgButton": "img/2/slide-2.png",
+          "info": {
+            "title": "Contratista permanente",
+            "text": "<p>Es aquel contratista que presta sus servicios durante todos los días de la semana por más de 30 días y deben cumplir además de la normatividad legal vigente, los lineamientos de los sistemas de gestión de la Compañía. </p>"
+          }
+        },
+        {
+          "unit": 3,
+          "title": "Título 3",
+          "text": "Texto Item",
+          "imgButton": "img/2/slide-3.png",
+          "info": {
+            "title": "Contratista frecuente",
+            "text": "<p>Es aquel contratista que presta sus servicios entre 1 y 30 días en un mes, de manera recurrente durante el año. </p>"
+          }
+        }
+      ]
+    },
+    "instruction": {
+      "type": "",
+      "text": "<b>Haz clic</b> sobre cada una de las siguientes imágenes para ver la información",
+      "posY": 575,
+      "posX": 30,
+      "size": 400
+    },
+    "instruction2": {
+      "type": "img",
+      "imgURL": "img/jpg.png",
+      "link": "img/2/Matriz.png",
+      "text": "Visualiza toda la matriz en la siguiente imagen.",
+      "posY": 60,
+      "posX": 625,
+      "size": 260
+    }
+  },
+
+  "page3": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "endUnit": true,
+    "title": "Manual de terceros",
+    "text": "",
+    "imgTitle": "img/imgTitle-2.png",
+    "imgTitlePos": {
+      "posY": 20,
+      "posX": 270
+    },
+    "numberPage": {
+      "text": "04",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "text2": "<p class='mB-05'>Grupo Nutresa en el marco del Desarrollo Sostenible interactúa con sus grupos relacionados de los cuales hacen parte los terceros como pieza estratégica en los procesos de soporte y de los cuales se requiere la prestación de servicios, dando cumplimiento a las normas y a los sistemas de gestión que enmarcan lo relacionado con seguridad y salud en el trabajo, calidad, medio ambiente, seguridad de los alimentos y riesgos.</p><p class='mB-05'>Desde Grupo Nutresa se establecen los requerimientos para implementar efectivamente lo declarado en el manual, sin embargo, en el Negocio los hemos ajustado a nuestras necesidades. Amplía esta información dando clic en el archivo anexo.</p>",
+    "boxInfo": {
+      "title": "RECURSO AUDIOVISUAL",
+      "text": "Visualiza el siguiente video para conocer la información.",
+      "imgBg": "img/video-1.png"
+    },
+    "modal": {
+      "type": "videoModal",
+      "title": "",
+      "text": "",
+      "buttonModal": "",
+      "closedModal": true,
+      "urlVideo": "video/Motion-1-Manual-de-terceros.mp4"
+    },
+    "instruction": {
+      "type": "info",
+      "link": "",
+      "text": "<b>Haz clic</b> en el reproductor de video para conocer toda la información.",
+      "posY": 572,
+      "posX": 27,
+      "size": 310
+    },
+    "instruction2": {
+      "type": "doc",
+      "imgURL": "img/xls.png",
+      "link": "docs/Como-de-los requerimientos-del-manual-GRL.xlsx",
+      "text": "",
+      "posY": 460,
+      "posX": 25,
+      "size": 60
+    },
+    "instruction4": {
+      "type": "doc",
+      "imgURL": "img/pdf.png",
+      "link": "docs/manual-GRL.pdf",
+      "text": "",
+      "posY": 460,
+      "posX": 90,
+      "size": 56
+    },
+    "instruction3": {
+      "type": "doc",
+      "imgURL": "img/pdf.png",
+      "link": "docs/manual-para-terceros.pdf",
+      "text": "Haz clic en el icono si deseas conocer todo el manual de terceros",
+      "posY": 488,
+      "posX": 510,
+      "size": 440
+    }
+  },
+
+  "page4": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "nameUnit": "unit2",
+    "title": "Nivel de Clasificación de Servicio",
+    "text": "",
+    "imgTitle": "img/imgTitle-3.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "05",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "text2": "<p class='mB-05'>Por lo anterior, este manual busca ser una fuente de información para facilitar que todos los colaboradores de la compañía conozcan, comprendan, cumplan y hagan cumplir las políticas, procedimientos, herramientas y metodologías definidas por el Grupo Empresarial Nutresa, para la gestión y contratación de proveedores de servicios, en adelante terceros.</p><p class='mB-05'>Amplía tu conocimiento descargando la información del Manual de Interventores.</p>",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic sostenido y lleva cada botón</b>, en orden consecutivo, al círculo del centro para conocer la información, luego continúa con la lectura",
+      "posY": 575,
+      "posX": 27,
+      "size": 490
+    },
+    "instruction2": {
+      "type": "doc",
+      "imgURL": "img/pdf.png",
+      "link": "docs/Manual-interventores.pdf",
+      "text": "",
+      "posY": 440,
+      "posX": 510,
+      "size": 60
+    },
+    "multimedia": {
+      "dragItems": [
+        {
+          "drag": 1,
+          "img": "img/4/n-1.png",
+          "text": "",
+          "posY": -12,
+          "posX": 192,
+          "posYTarget": 30,
+          "posXTarget": 290,
+          "type": "unit",
+          "data": "Artículo 95"
+        },
+        {
+          "drag": 2,
+          "img": "img/4/n-2.png",
+          "text": "",
+          "posY": 127,
+          "posX": 50,
+          "posYTarget": 30,
+          "posXTarget": 510,
+          "type": "unit",
+          "data": ""
+        },
+        {
+          "drag": 3,
+          "img": "img/4/n-3.png",
+          "text": "",
+          "posY": 267,
+          "posX": 192,
+          "posYTarget": 30,
+          "posXTarget": 510,
+          "type": "unit",
+          "data": ""
+        },
+        {
+          "drag": 4,
+          "img": "img/4/n-4.png",
+          "text": "",
+          "posY": 127,
+          "posX": 333,
+          "posYTarget": 30,
+          "posXTarget": 510,
+          "type": "unit",
+          "data": ""
+        }
+      ],
+      "dropZone": [
+        {
+          "drop": 1,
+          "img": "img/4/target.png",
+          "imgTarget": "img/4/n-1.png",
+          "text": "Artículo 95",
+          "posY": 82,
+          "posX": 145,
+          "type": "unit",
+          "data": "",
+          "infoBox": [
+            {},
+            {
+              "title": 1,
+              "colorTitle": "#AA65D0",
+              "text": "<p class = 'mB-05'>Es para el Grupo Empresarial Nutresa una de las formas de mantener su reputación corporativa,</p>",
+              "width": 270,
+              "posY": 95,
+              "posX": 304,
+              "posTriang": "left"
+            },
+            {
+              "title": 2,
+              "colorTitle": "#00ABBD",
+              "text": "<p class = 'mB-05'>depende en gran medida del desempeño de sus proveedores y contratistas,</p>",
+              "width": 270,
+              "posY": 95,
+              "posX": 304,
+              "posTriang": "left"
+            },
+            {
+              "title": 3,
+              "colorTitle": "#F47521",
+              "text": "<p class = 'mB-05'>pues su incorporación creciente en la cadena de valor aumenta los riesgos de incumplimiento, </p>",
+              "width": 270,
+              "posY": 95,
+              "posX": 304,
+              "posTriang": "left"
+            },
+            {
+              "title": 4,
+              "colorTitle": "#B3C636",
+              "text": "<p class = 'mB-05'>produciendo efectos negativos que impacten la confianza de los diferentes grupos de interés.</p>",
+              "width": 270,
+              "posY": 95,
+              "posX": 304,
+              "posTriang": "left"
+            }
+          ]
+        }
+      ],
+      "InfoFinal": {
+        "unit": 1,
+        "title": "",
+        "text": "",
+        "imgButton": "",
+        "info": {
+          "title": "",
+          "text": "<p>Es para el Grupo Empresarial Nutresa una de las formas de mantener su reputación corporativa, depende en gran medida del desempeño de sus proveedores y terceros, pues su incorporación creciente en la cadena de valor aumenta los riesgos de incumplimiento, produciendo efectos negativos que impacten la confianza de los diferentes grupos de interés.</p>"
+        }
+      }
+    }
+  },
+
+  "page5": {
+    "type": "pageCourse",
+    "title": "Nivel de Clasificación de Servicio",
+    "text": "Los roles y las funciones de un interventor están determinados por los siguiente ítems:",
+    "imgTitle": "img/imgTitle-3.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "06",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en cada recuadro para visualizar la información.",
+      "posY": 575,
+      "posX": 27,
+      "size": 310
+    },
+    "multimedia": [
+      {
+        "id": 1,
+        "title": "",
+        "text": "Aspectos contractuales",
+        "img": "img/5/n-1.png"
+      },
+      {
+        "id": 2,
+        "title": "",
+        "text": "Requisitos inicio de actividades",
+        "img": "img/5/n-2.png"
+      },
+      {
+        "id": 3,
+        "title": "",
+        "text": "Seguridad y Salud en el Trabajo",
+        "img": "img/5/n-3.png"
+      },
+      {
+        "id": 4,
+        "title": "",
+        "text": "Administrativos",
+        "img": "img/5/n-4.png"
+      },
+      {
+        "id": 5,
+        "title": "",
+        "text": "Monitoreo al servicio",
+        "img": "img/5/n-5.png"
+      }
+    ]
+  },
+
+  "page6": {
+    "type": "pageCourse",
+    "title": "Nivel de Clasificación de Servicio",
+    "text": "<b>a. Aspectos contractuales</b>",
+    "imgTitle": "img/imgTitle-3.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "07",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en cada número en orden consecutivo para conocer la información.",
+      "posY": 575,
+      "posX": 27,
+      "size": 340
+    },
+    "multimedia": {
+      "dragItems": [
+        {
+          "drag": [1, 2, 3, 4],
+          "img": "img/6/itemDrag.png",
+          "text": "",
+          "pos": [
+            {
+              "Y": 269,
+              "X": 59
+            },
+            {
+              "Y": 28,
+              "X": 261
+            },
+            {
+              "Y": 306,
+              "X": 422
+            },
+            {
+              "Y": 30,
+              "X": 586
+            },
+            {
+              "Y": 301,
+              "X": 758
+            }
+          ],
+          "posYTarget": 30,
+          "posXTarget": 290,
+          "type": "unit",
+          "data": "Artículo 95"
+        }
+      ],
+      "dropZone": [
+        {
+          "drop": 1,
+          "img": "img/6/drop-1.png",
+          "imgTarget": "img/6/itemDrag.png",
+          "bgDrop": {
+            "url": "img/6/bgUnit-1.png",
+            "posY": -8,
+            "posX": 20
+          },
+          "text": "",
+          "posY": 35,
+          "posX": 265,
+          "type": "unit",
+          "data": "",
+          "infoBox": {
+            "title": 1,
+            "colorTitle": "#4CBAF2",
+            "text": "<p class = 'mB-05'>Velar por el estricto cumplimiento del contrato y acuerdos de servicio.</p>",
+            "width": 420,
+            "posY": 0,
+            "posX": 335,
+            "posTriang": "left"
+          }
+        },
+        {
+          "drop": 2,
+          "img": "img/6/drop-2.png",
+          "imgTarget": "img/6/itemDrag.png",
+          "bgDrop": {
+            "url": "img/6/bgUnit-2.png",
+            "posY": -4,
+            "posX": 230
+          },
+          "text": "",
+          "posY": 310,
+          "posX": 427,
+          "type": "unit",
+          "data": "",
+          "infoBox": {
+            "title": 2,
+            "colorTitle": "#00ABBD",
+            "text": "<p class = 'mB-05'>Velar porque el tercero asigne el personal idóneo, capacitado y entrenado para la prestación del servicio.</p>",
+            "width": 400,
+            "posY": 275,
+            "posX": 64,
+            "posTriang": ""
+          }
+        },
+        {
+          "drop": 3,
+          "img": "img/6/drop-3.png",
+          "imgTarget": "img/6/itemDrag.png",
+          "bgDrop": {
+            "url": "img/6/bgUnit-3.png",
+            "posY": -5,
+            "posX": 394
+          },
+          "text": "",
+          "posY": 35,
+          "posX": 590,
+          "type": "unit",
+          "data": "",
+          "infoBox": {
+            "title": 3,
+            "colorTitle": "#F47521",
+            "text": "<p class = 'mB-05'>Conocer las responsabilidades del Tercero como verdadero empleador y los lineamientos establecidos en el Manual para exigir el cumplimiento.</p>",
+            "width": 500,
+            "posY": -5,
+            "posX": 114,
+            "posTriang": ""
+          }
+        },
+        {
+          "drop": 4,
+          "img": "img/6/drop-4.png",
+          "imgTarget": "img/6/itemDrag.png",
+          "bgDrop": {
+            "url": "img/6/bgUnit-4.png",
+            "posY": -5,
+            "posX": 555
+          },
+          "text": "",
+          "posY": 305,
+          "posX": 762,
+          "type": "unit",
+          "data": "",
+          "infoBox": {
+            "title": 4,
+            "colorTitle": "#B3C636",
+            "text": "<p class = 'mB-05'>Informar a Servicios Nutresa cualquier desviación o inconformidad con el servicio prestado, cuando éste o la relación comercial se puedan ver afectados. </p>",
+            "width": 550,
+            "posY": 265,
+            "posX": 244,
+            "posTriang": ""
+          }
+        }
+      ],
+      "InfoFinal": {
+        "unit": 1,
+        "title": "",
+        "text": "",
+        "imgButton": "",
+        "info": {
+          "title": "",
+          "text": "<p>Es para el Grupo Empresarial Nutresa una de las formas de mantener su reputación corporativa, depende en gran medida del desempeño de sus proveedores y terceros, pues su incorporación creciente en la cadena de valor aumenta los riesgos de incumplimiento, produciendo efectos negativos que impacten la confianza de los diferentes grupos de interés.</p>"
+        }
+      }
+    }
+  },
+
+  "page7": {
+    "type": "pageCourse",
+    "title": "Nivel de Clasificación de Servicio",
+    "text": "<b>b. Requisitos inicio de actividades</b>",
+    "imgTitle": "img/imgTitle-3.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "08",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en cada número en orden consecutivo para conocer la información.",
+      "posY": 575,
+      "posX": 27,
+      "size": 340
+    },
+    "multimedia": {
+      "audio": {
+        "src": "audio/requisitos-inicio-de-actividades.mp3",
+        "autoPlay": true
+      },
+      "subtitles": {
+        "0": "Requisitos para inicio de activiades",
+        "3": "Tramitar internamente las autorizaciones correspondientes para",
+        "6": "facilitar la identificación e ingreso del personal del tercero.",
+        "10": "Asegurar que el tercero realice inducción y entrenamiento a sus empleados",
+        "14": "antes del inicio de la prestación del servicio.",
+        "17": "Informar con anterioridad al líder de terceros",
+        "20": "la relación del personal que requiere inducción corporativa para coordinar lo necesario.",
+        "25": "Liderar la asignación de lockers para ropa y espacios",
+        "28": "equipos, herramientas, materiales e insumos del tercero."
+      },
+      "layers": [
+        [
+          {
+            "label": "",
+            "labelSide": "bottom",
+            "icon": "img/7/n-1.png",
+            "time": 3,
+            "size": 157,
+            "position": {
+              "yPosition": 193,
+              "xPosition": 30
+            }
+          },
+          {
+            "icon": "img/7/l-1.png",
+            "time": 4,
+            "size": 81,
+            "position": {
+              "xPosition": 80,
+              "yPosition": 50
+            }
+          },
+          {
+            "label": "",
+            "labelSide": "bottom",
+            "icon": "img/7/n-2.png",
+            "time": 7,
+            "size": 173,
+            "position": {
+              "xPosition": 136,
+              "yPosition": 11
+            }
+          },
+          {
+            "icon": "img/7/n-3.png",
+            "time": 10,
+            "size": 183,
+            "position": {
+              "xPosition": 360,
+              "yPosition": -15
+            }
+          },
+          {
+            "label": "",
+            "labelSide": "bottom",
+            "icon": "img/7/l-2.png",
+            "time": 12,
+            "size": 220,
+            "position": {
+              "xPosition": 430,
+              "yPosition": -69
+            }
+          },
+          {
+            "icon": "img/7/n-4.png",
+            "time": 14,
+            "size": 177,
+            "position": {
+              "xPosition": 550,
+              "yPosition": -52
+            }
+          },
+          {
+            "label": "",
+            "labelSide": "bottom",
+            "icon": "img/7/n-5.png",
+            "time": 17,
+            "size": 173,
+            "position": {
+              "xPosition": 725,
+              "yPosition": 0
+            }
+          },
+          {
+            "icon": "img/7/l-3.png",
+            "time": 18,
+            "size": 97,
+            "position": {
+              "xPosition": 820,
+              "yPosition": 68
+            }
+          },
+          {
+            "label": "",
+            "labelSide": "bottom",
+            "time": 20,
+            "size": 160,
+            "icon": "img/7/n-6.png",
+            "position": {
+              "xPosition": 700,
+              "yPosition": 209
+            }
+          },
+          {
+            "icon": "img/7/n-7.png",
+            "time": 25,
+            "size": 160,
+            "position": {
+              "xPosition": 520,
+              "yPosition": 186
+            }
+          },
+          {
+            "label": "",
+            "labelSide": "bottom",
+            "icon": "img/7/l-4.png",
+            "time": 27,
+            "size": 221,
+            "position": {
+              "xPosition": 440,
+              "yPosition": 165
+            }
+          },
+
+          {
+            "label": "",
+            "labelSide": "bottom",
+            "time": 29,
+            "size": 160,
+            "icon": "img/7/n-8.png",
+            "position": {
+              "xPosition": 322,
+              "yPosition": 179
+            }
+          }
+        ]
+      ]
+    }
+  },
+
+  "page8": {
+    "type": "pageCourse",
+    "nameUnit": "unit3",
+    "title": "Nivel de Clasificación de Servicio",
+    "text": "<b>c. Seguridad y Salud en el Trabajo</b>",
+    "imgTitle": "img/imgTitle-3.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "09",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en cada número en orden consecutivo para conocer la información.",
+      "posY": 575,
+      "posX": 27,
+      "size": 340
+    },
+    "multimediaCircular": [
+      {
+        "urlImgBtn": "img/8/n-1.png",
+        "pos": {
+          "top": 265,
+          "left": 240
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Verificar que el formato para Permiso de Trabajo de Alto Riesgo del tercero cumpla como mínimo con los requisitos establecidos por la compañía.",
+          "posGlobe": {
+            "posY": 265,
+            "posX": 310,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": 385
+          },
+          "posTriang": "left"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-2.png",
+        "pos": {
+          "top": 179,
+          "left": 290
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Verificar la entrega oportuna de la dotación, elementos y equipos de protección personal, acorde con las fechas establecidas por Ley y lo establecido en el contrato.",
+          "posGlobe": {
+            "posY": 170,
+            "posX": 375,
+            "size": 370
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": 345
+          },
+          "posTriang": "left"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-3.png",
+        "pos": {
+          "top": 92,
+          "left": 340
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Verificar que los equipos del sistema de protección contra caídas cumplan con los requisitos de certificación. ",
+          "posGlobe": {
+            "posY": 82,
+            "posX": 124,
+            "size": 230
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-4.png",
+        "pos": {
+          "top": 181,
+          "left": 390
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Verificar que los trabajadores de los terceros realicen la labor específica para la cual fueron contratados y cumplan con lo establecido en el alcance del contrato.",
+          "posGlobe": {
+            "posY": 165,
+            "posX": 137,
+            "size": 270
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-5.png",
+        "pos": {
+          "top": 266,
+          "left": 440
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Verificar que los terceros notifiquen e investiguen los incidentes y/o accidentes de trabajo de sus trabajadores y establezcan los planes de acción, resultado de la investigación.",
+          "posGlobe": {
+            "posY": 250,
+            "posX": 130,
+            "size": 320
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-6.png",
+        "pos": {
+          "top": 181,
+          "left": 490
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Verificar las certificaciones de competencias de los trabajadores que desarrollen labores en alturas, operación segura de montacargas, manejo de sustancias químicas, trabajos en caliente, en espacios confinados, entre otros.",
+          "posGlobe": {
+            "posY": 165,
+            "posX": 140,
+            "size": 360
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-7.png",
+        "pos": {
+          "top": 93,
+          "left": 540
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Hacer seguimiento a la entrega, uso, estado, almacenamiento, documentación y reposición de los elementos de protección personal.",
+          "posGlobe": {
+            "posY": 94,
+            "posX": 140,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-8.png",
+        "pos": {
+          "top": 181,
+          "left": 590
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Determinar las acciones necesarias para las correcciones, cuando los trabajadores y/o firmas contratistas incumplan las normas y/o procedimientos.",
+          "posGlobe": {
+            "posY": 181,
+            "posX": 190,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-9.png",
+        "pos": {
+          "top": 93,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Participar de las investigaciones de accidentes de trabajo ocurridos a personal del tercero bajo su responsabilidad.",
+          "posGlobe": {
+            "posY": 97,
+            "posX": 240,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-10.png",
+        "pos": {
+          "top": 4,
+          "left": 690
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Validar la afiliación y pago oportuno de los aportes al sistema de seguridad social y verificar que el tercero esté cotizando a la ARL según el nivel de riesgo que tiene la actividad y el centro de trabajo.",
+          "posGlobe": {
+            "posY": -5,
+            "posX": 285,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-11.png",
+        "pos": {
+          "top": 93,
+          "left": 740
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Coordinar con SST la atención a las necesidades propias de las actividades a desarrollar por los terceros.",
+          "posGlobe": {
+            "posY": 100,
+            "posX": 335,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-12.png",
+        "pos": {
+          "top": 181,
+          "left": 690
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Velar que el personal asignado por el tercero sea competente para la ejecución de trabajos de alto riesgo o emisor de los respectivos permisos aplicables a su contrato.",
+          "posGlobe": {
+            "posY": 175,
+            "posX": 280,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-13.png",
+        "pos": {
+          "top": 268,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Solicitar copia del plan de acción derivado de las inspecciones de seguridad realizadas por el tercero.",
+          "posGlobe": {
+            "posY": 275,
+            "posX": 235,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-14.png",
+        "pos": {
+          "top": 268,
+          "left": 740
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Garantizar que el tercero envíe mensualmente a SST los indicadores de ausentismo y accidentalidad.",
+          "posGlobe": {
+            "posY": 275,
+            "posX": 330,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-15.png",
+        "pos": {
+          "top": 181,
+          "left": 790
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Verificar las hojas y tarjetas de seguridad de los productos y/o sustancias químicas requeridas en el servicio.",
+          "posGlobe": {
+            "posY": 185,
+            "posX": 380,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      },
+      {
+        "urlImgBtn": "img/8/n-16.png",
+        "pos": {
+          "top": 93,
+          "left": 840
+        },
+        "itemInfo": {
+          "title": "",
+          "text": "Asegurar que el tercero cumpla con todos los requisitos exigidos en los sistemas de gestión.",
+          "posGlobe": {
+            "posY": 95,
+            "posX": 430,
+            "size": 410
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": -15,
+            "posX": -20
+          },
+          "posTriang": "right"
+        }
+      }
+    ]
+  },
+
+  "page9": {
+    "type": "pageCourse",
+    "nameUnit": "unit4",
+    "title": "Nivel de Clasificación de Servicio",
+    "text": "<b>d. Administrativos</b>",
+    "imgTitle": "img/imgTitle-3.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "10",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en las fechas laterales para visualizar los demás ítems.",
+      "posY": 575,
+      "posX": 27,
+      "size": 340
+    },
+    "multimedia": [
+      {
+        "id": 1,
+        "title": "",
+        "text": "Verificar que las facturas y documentos que legaliza y aprueba, cumplan con los requisitos legales y corresponda a las tarifas acordadas.",
+        "img": ""
+      },
+      {
+        "id": 2,
+        "title": "",
+        "text": "Informar oportunamente al líder de terceros de la compañía el listado de personal nuevo asignado a la prestación del servicio e informar el retiro del mismo.. Estas novedades se deben reportar en el software para contratistas.",
+        "img": ""
+      },
+      {
+        "id": 3,
+        "title": "",
+        "text": "Expedir las referencias comerciales que se soliciten y hacer firmar del gerente del área.",
+        "img": ""
+      },
+      {
+        "id": 4,
+        "title": "",
+        "text": "Generar órdenes de salida de equipos en reparación, materiales, excedentes y demás de los contratistas a su cargo.",
+        "img": ""
+      }
+    ]
+  },
+
+  "page10": {
+    "type": "pageCourse",
+    "title": "Nivel de Clasificación de Servicio",
+    "text": "<b>e. Monitoreo al servicio</b>",
+    "imgTitle": "img/imgTitle-3.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "11",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en el reproductor de video para conocer toda la información sobre el monitoreo al servicio",
+      "posY": 575,
+      "posX": 27,
+      "size": 370
+    },
+    "boxInfo": {
+      "title": "RECURSO AUDIOVISUAL",
+      "text": "Visualiza el siguiente video para conocer la información.",
+      "imgBg": "img/video-1.png"
+    },
+    "modal": {
+      "type": "videoModal",
+      "title": "",
+      "text": "",
+      "buttonModal": "",
+      "closedModal": true,
+      "urlVideo": "video/Motion-2-Monitoreo-al-servicio.mp4"
+    }
+  },
+
+  "page11": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "endUnit": true,
+    "title": "Legislación de SST",
+    "text": "La principal normatividad en materia de seguridad y salud en el trabajo es la siguiente:",
+    "imgTitle": "img/imgTitle-4.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 340
+    },
+    "numberPage": {
+      "text": "12",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en cada botón para conocer la información.",
+      "posY": 575,
+      "posX": 27,
+      "size": 340
+    },
+    "multimediaCircular": [
+      {
+        "text": "Ley 1562",
+        "pos": {
+          "top": 71,
+          "left": 330
+        },
+        "itemInfo": {
+          "title": "Ley 1562 de 2012",
+          "text": "modifica el Sistema de Riesgos Laborales.",
+          "img": "",
+          "posGlobe": {
+            "posY": 35,
+            "posX": 20,
+            "size": 220
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down-2 fadeInDown"
+        }
+      },
+      {
+        "text": "1477",
+        "pos": {
+          "top": 280,
+          "left": 360
+        },
+        "itemInfo": {
+          "title": "Decreto 1477 de 2014",
+          "text": "Por el cual se expide la Tabla de Enfermedades Laborales.",
+          "img": "",
+          "posGlobe": {
+            "posY": 35,
+            "posX": 7,
+            "size": 250
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down fadeInDown"
+        }
+      },
+      {
+        "text": "1072",
+        "pos": {
+          "top": 240,
+          "left": 650
+        },
+        "itemInfo": {
+          "title": "Decreto 1072 de 2015",
+          "text": "Decreto Único Reglamentario del Sector Trabajo, reglamenta la implementación del Sistema de Gestión de Seguridad y Salud en el Trabajo",
+          "img": "",
+          "posGlobe": {
+            "posY": 10,
+            "posX": 37,
+            "size": 380
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down fadeInDown"
+        }
+      },
+      {
+        "text": "2400",
+        "pos": {
+          "top": 61,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "Resolución 2400 de 1979",
+          "text": "Estatuto de Seguridad Industrial.",
+          "img": "",
+          "posGlobe": {
+            "posY": 45,
+            "posX": 168,
+            "size": 280
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down fadeInDown"
+        }
+      },
+      {
+        "text": "2013",
+        "pos": {
+          "top": 61,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "Resolución 2013 de 1986",
+          "text": "Reglamenta la organización y funcionamiento de los COPASST.",
+          "img": "",
+          "posGlobe": {
+            "posY": 30,
+            "posX": 255,
+            "size": 280
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down fadeInDown"
+        }
+      },
+      {
+        "text": "2346",
+        "pos": {
+          "top": 61,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "Resolución 2346 de 2007",
+          "text": "Por la cual se regula la práctica de evaluaciones médicas ocupacionales.",
+          "img": "",
+          "posGlobe": {
+            "posY": 30,
+            "posX": 344,
+            "size": 280
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down fadeInDown"
+        }
+      },
+      {
+        "text": "1401",
+        "pos": {
+          "top": 61,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "Resolución 1401 de 2007",
+          "text": "Reglamenta la investigación de incidentes y accidentes de trabajo.",
+          "img": "",
+          "posGlobe": {
+            "posY": 30,
+            "posX": 430,
+            "size": 280
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down fadeInDown"
+        }
+      },
+      {
+        "text": "2646",
+        "pos": {
+          "top": 61,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "Resolución 2646 de 2008",
+          "text": "Evaluación de factores sicosociales.",
+          "img": "",
+          "posGlobe": {
+            "posY": 45,
+            "posX": 516,
+            "size": 280
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down fadeInDown"
+        }
+      },
+      {
+        "text": "1409",
+        "pos": {
+          "top": 61,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "Resolución 1409 de 2012",
+          "text": "Trabajo seguro en alturas.",
+          "img": "",
+          "posGlobe": {
+            "posY": 45,
+            "posX": 604,
+            "size": 280
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down fadeInDown"
+        }
+      },
+      {
+        "text": "1565",
+        "pos": {
+          "top": 61,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "Resolución 1565 de 2014",
+          "text": "Plan de seguridad vial.",
+          "img": "",
+          "posGlobe": {
+            "posY": 45,
+            "posX": 661,
+            "size": 280
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down-3 fadeInDown"
+        }
+      },
+      {
+        "text": "312",
+        "pos": {
+          "top": 61,
+          "left": 640
+        },
+        "itemInfo": {
+          "title": "Resolución 312 de 2019",
+          "text": "Por la cual se definen los Estándares Mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo para empleadores y contratantes.",
+          "img": "",
+          "posGlobe": {
+            "posY": -10,
+            "posX": 669,
+            "size": 280
+          },
+          "buttonClose": {
+            "closedModal": true,
+            "posY": 4,
+            "posX": 0
+          },
+          "posTriang": "triang-down-4 fadeInDown"
+        }
+      }
+    ]
+  },
+
+  "page12": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "title": "Gestión del Riesgo Laboral en el Negocio Cárnico",
+    "text": "El Negocio recibe un direccionamiento de Grupo Nutresa, el cual enmarca la gestión de salud y seguridad en el trabajo derivado de la matriz de materialidad. Basado en esto el Negocio plantea e incorpora en su planeación estratégica la gestión de SST como un elemento fundamental para la sostenibilidad. ",
+    "imgTitle": "img/imgTitle-5.png",
+    "imgTitlePos": {
+      "posY": 1,
+      "posX": 470
+    },
+    "numberPage": {
+      "text": "13",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Llena los espacios</b> arrastrando las palabras que están a la izquierda donde correspondan.",
+      "posY": 575,
+      "posX": 27,
+      "size": 460
+    },
+    "multimedia": {
+      "dragItem": [
+        {
+          "id": 1,
+          "text": "Cultura",
+          "color": "#FF9D2A"
+        },
+        {
+          "id": 2,
+          "text": "Capacidades",
+          "color": "#FF9D2A"
+        },
+        {
+          "id": 3,
+          "text": "Lineamientos Estratégicos",
+          "color": "#FF9D2A"
+        },
+        {
+          "id": 4,
+          "text": "Lineamientos Metodológicos",
+          "color": "#FF9D2A"
+        },
+        {
+          "id": 5,
+          "text": "Seguimiento",
+          "color": "#FF9D2A"
+        },
+        {
+          "id": 6,
+          "text": "Procesos",
+          "color": "#FF9D2A"
+        }
+      ],
+      "dropZone": {
+        "colors": ["#FF9D2A", "#FF9D2A", "#FF9D2A", "#FF9D2A"],
+        "paragraph": [
+          {
+            "key": 1,
+            "lines": [
+              {
+                "key": 1,
+                "text": "Avalúo",
+                "posY": 20,
+                "posX": 20
+              },
+              {
+                "key": 2,
+                "text": "Impuesto predial",
+                "posY": 20,
+                "posX": 235
+              },
+              {
+                "key": 3,
+                "text": "Autoavalúo",
+                "posY": 20,
+                "posX": 448
+              }
+            ],
+            "drops": [
+              {
+                "key": 1,
+                "box": "<div class = 'boxDrop'></div>",
+                "size": 253,
+                "posY": 93,
+                "posX": 284,
+                "type": "Capacidades"
+              },
+              {
+                "key": 2,
+                "box": "<div class = 'boxDrop'></div>",
+                "size": 253,
+                "posY": 184,
+                "posX": 284,
+                "type": "Lineamientos Estratégicos"
+              },
+              {
+                "key": 3,
+                "box": "<div class = 'boxDrop'></div>",
+                "size": 253,
+                "posY": 269,
+                "posX": 284,
+                "type": "Seguimiento"
+              }
+            ]
+          }
+        ]
+      },
+      "content": [
+        {
+          "info": 1,
+          "img": "img/check.png",
+          "imgSize": 150,
+          "title": "¡Muy bien!",
+          "text": "<p></p>"
+        }
+      ]
+    }
+  },
+
+  "page13": {
+    "type": "pageCourse",
+    "nameUnit": "unit5",
+    "title": "Gestión del Riesgo Laboral en el Negocio Cárnico",
+    "text": "",
+    "imgTitle": "img/imgTitle-5.png",
+    "imgTitlePos": {
+      "posY": 1,
+      "posX": 470
+    },
+    "numberPage": {
+      "text": "14",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en el ícono de imagen para visualizar el gráfico.",
+      "posY": 575,
+      "posX": 27,
+      "size": 340
+    },
+    "boxInfo": {
+      "title": "",
+      "text": "",
+      "imgBg": "img/jpg.png"
+    },
+    "multimedia": {
+      "text": "<p>En la perspectiva de aprendizaje tenemos un indicador en el objetivo de desarrollar gente competente, comprometida y adaptable que es accidentalidad de vinculados de primer nivel y hay un indicador de segundo nivel que no está en el mapa que monitorea la accidentalidad de contratistas. Por ende, en esta perspectiva se movilizan los recursos para la adecuada gestión en la prevención de accidentes, enfermedades y emergencias tanto vinculados como contratistas. </p>"
+    },
+    "modal": {
+      "type": "videoModal",
+      "title": "",
+      "text": "",
+      "buttonModal": "",
+      "closedModal": true,
+      "urlImg": "img/13/img-1.png"
+    }
+  },
+
+  "page14": {
+    "type": "pageCourse",
+    "endUnit": true,
+    "title": "Gestión del Riesgo Laboral en el Negocio Cárnico",
+    "text": "Si tienes dudas frente a este tema, te invitamos a contactar a las siguientes personas en cada región: ",
+    "imgTitle": "img/imgTitle-5.png",
+    "imgTitlePos": {
+      "posY": 1,
+      "posX": 470
+    },
+    "numberPage": {
+      "text": "15",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "",
+      "imgURL": "img/xls.png",
+      "link": "",
+      "text": "<b>Haz clic</b> en cada ícono para avanzar.",
+      "posY": 575,
+      "posX": 27,
+      "size": 340
+    },
+    "multimedia": [
+      {
+        "id": 1,
+        "color": "#48D05C",
+        "title": "Región Antioquia 1",
+        "img": "",
+        "text": "<h3 class='color-4 tCenter mB-025'>Región Antioquia 1</h3><h4 class='color-4 tCenter mB-05'>(Planta Medellín, sedes guayabal y multicompañía)</h4><p class='color-4 tCenter F08em'><b>Nombre:</b> Duván Otálvaro Gallo</p><p class='color-4 tCenter F08em'><b>Cargo:</b> Jefe de Gestión del Riesgo Laboral</p><p class='color-4 tCenter F08em'><b>Correo electrónico:</b> daotalvaro@zenu.com.co</p>"
+      },
+      {
+        "id": 2,
+        "color": "#1BB734",
+        "title": "Región Antioquia 2 y planta",
+        "img": "",
+        "text": "<h3 class='color-4 tCenter mB-025'>Región Antioquia 2 y planta Aguachica</h3><h4 class='color-4 tCenter mB-05'>(Planta Medellín, sedes guayabal y multicompañía)</h4><p class='color-4 tCenter F08em'><b>Nombre:</b> Natalia Zapata Garzón</p><p class='color-4 tCenter F08em'><b>Cargo:</b> Jefe de Gestión del Riesgo Laboral</p><p class='color-4 tCenter F08em'><b>Correo electrónico:</b> nzapata@alimentoscarnicos.com.co</p>"
+      },
+      {
+        "id": 3,
+        "color": "#C6B009",
+        "title": "Región Norte",
+        "img": "",
+        "text": "<h3 class='color-4 tCenter mB-025'>Región Norte</h3><h4 class='color-4 tCenter mB-05'>(Cedi Barranquilla, Cedi Montería, Proceso Comercial Norte, Cedi Bucaramanga)</h4><p class='color-4 tCenter F08em'><b>Nombre:</b> Lenin Rodríguez Villamizar</p><p class='color-4 tCenter F08em'><b>Cargo:</b> Coordinador de Gestión del Riesgo Laboral</p><p class='color-4 tCenter F08em'><b>Correo electrónico:</b> lrodriguez@alimentoscarnicos.com.co</p>"
+      },
+      {
+        "id": 4,
+        "color": "#308ED5",
+        "title": "Región Centro",
+        "img": "",
+        "text": "<h3 class='color-4 tCenter mB-025'>Región Centro</h3><h4 class='color-4 tCenter mB-05'>(Planta y Cedi Bogotá, Proceso Comercial Centro, Cedis Ibagué y Neiva)</h4><p class='color-4 tCenter F08em'><b>Nombre:</b> Claudia Paola Chaparro Montaña</p><p class='color-4 tCenter F08em'><b>Cargo:</b> Jefe de Gestión del Riesgo Laboral</p><p class='color-4 tCenter F08em'><b>Correo electrónico:</b> cpchaparro@alimentoscarnicos.com.co</p>"
+      },
+      {
+        "id": 5,
+        "color": "#F5592A",
+        "title": "Región Sur",
+        "img": "",
+        "text": "<h3 class='color-4 tCenter mB-025'>Región Sur</h3><h4 class='color-4 tCenter mB-05'>(Planta Caloto, Cedis Cali y Pereira)</h4><p class='color-4 tCenter F08em'><b>Nombre:</b> Luis Eduardo Perafán Ordoñez</p><p class='color-4 tCenter F08em'><b>Cargo:</b> Coordinador de Gestión del Riesgo Laboral</p><p class='color-4 tCenter F08em'><b>Correo electrónico:</b> leperafan@alimentoscarnicos.com.co</p>"
+      }
+    ]
+  },
+
+  "page15": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "endUnit": true,
+    "nameUnit": "unit6",
+    "title": "Evaluación de terceros",
+    "text": "",
+    "imgTitle": "img/imgTitle-6.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 260
+    },
+    "numberPage": {
+      "text": "16",
+      "posY": 25,
+      "posX": 925
+    },
+    "bgTitle": "img/bg-title.png",
+    "instruction": {
+      "type": "link",
+      "imgURL": "",
+      "link": "http://aplica.gruponutresa.com/Aplicaciones/GestionCarnica/evproveedores.nsf/",
+      "text": "Ir al link",
+      "posY": 425,
+      "posX": 27,
+      "size": 100
+    },
+    "multimedia": {
+      "text": "<p>Una de las responsabilidades del interventor en el monitoreo al servicio es realizar la evaluación del desempeño del tercero a cargo por lo menos una vez al año, esta se ejecuta por medio de la herramienta de seguimiento a la cual se puede acceder a través del siguiente link:  </p>",
+      "text2": "<h1 style='line-height: 34px;'><span class = 'fw-3'>En materia de SST</span><br><span class = 'F1-3em'>se evalúan 27</span><br><span style=' font-size: 1.2em; letter-spacing: 10px;' class = 'fw-3'>numerales</span></h1>"
+    }
+  },
+
+  "page16": {
+    "type": "endCourse",
+    "endUnit": true,
+    "endCourse": true,
+    "type": "endCourse",
+    "nameUnit": "unit4",
+    "title": "¡Has llegado al final de este recorrido! ",
+    "subTitle": "",
+    "module": "",
+    "courseName": "Ya conoces todo lo relacionado con el Manual de Terceros establecido por Grupo Nutresa y frente al Sistema de Seguridad y Salud en el Trabajo.  <br><br> Gracias por ser parte de este proceso de aprendizaje. Contamos contigo para asegurar el cumplimiento de lo establecido.<br><br><b>Ahora, te invitamos a realizar la prueba de conocimientos.</b> ",
+    "logoCourse": "img/logo.png",
+    "buttonStart": "Iniciar evaluación",
+    "modal": {
+      "type": "videoModal",
+      "title": "Recomendaciçon Título",
+      "text": "Texto de recomendación.",
+      "buttonModal": "Guía de Navegación",
+      "closedModal": true,
+      "urlVideo": "video/guia-navegacion-impuestos.mp4"
+    },
+    "background": {
+      "bgGrid": "img/cover/bg-grid-1.png",
+      "bici": "img/cover/bici-1.png",
+      "city": "img/cover/city-1.png",
+      "semaforo": "img/cover/semaforo-1.png"
+    }
+  },
+
+  "page17": {
+    "type": "endCourse",
+    "endUnit": true,
+    "endCourse": true,
+    "type": "endCourse",
+    "nameUnit": "unit4",
+    "title": "Impuesto corporativo",
+    "subTitle": "sobre la renta y complementarios",
+    "module": "Módulo 3",
+    "text": "En este módulo pudiste aprender sobre los procedimientos tributarios y las sanciones. Además, este contenido ha sido apoyado a través de la siguiente bibliografía con las fuentes tomadas del 31 de julio de 2018:",
+    "text2": "- Impuesto de renta explicado LEGIS</br>- Estatuto Tributario LEGIS</br>- Régimen de impuesto de renta y complementarios LEGIS",
+    "logoCourse": "img/logo.png",
+    "title2": "Prueba de Conocimientos",
+    "imgTitle": "img/imgTitle-7.png",
+    "imgTitlePos": {
+      "posY": 12,
+      "posX": 260
+    },
+    "buttonStart": "Finalizar",
+    "boxInfo": {
+      "title": "¡Has finalizado exitosamente esta formación!",
+      "text": "Te invitamos a practicar día a día todos los procedimientos y temas vistos en esta formación para no incurrir en problemas legales. Continúa con la evaluación de conocimientos. ¡Éxitos!",
+      "imgBg": "img/welcome-2.png"
+    },
+    "feed": {
+      "winner": {
+        "title": "¡Excelente!",
+        "text": "Has demostrado tu compromiso e interés  por conocer nuestro Negocio, continúa con esta actitud positiva y obtendrás grandes resultados."
+      },
+      "lose": {
+        "title": "¡Inténtalo de nuevo!",
+        "text": "Tienes una oportunidad más para responder el ejercicio de manera correcta. Puedes ingresar nuevamente a los temas y reforzar la información. ¡Esta vez lo lograrás!"
+      },
+      "instruction": {
+        "text": "Cierra la ventana para continuar"
+      }
+    },
+
+  	"final": {
+      "title": "¡Finalizaste con éxito!",
+      "text": "Para el Negocio es fundamental asegurar la sostenibilidad de las operaciones, por eso considera muy importante la prevención de los eventos que puedan poner en riesgo la continuidad del Negocio.",
+      "inst": {
+        "text": "Cierra la ventana para continuar",
+        "icon": "img/interface/infor.png"
+      }
+    },
+    "quiz": [
+      {
+  			"instruccion": {
+  				"text": "Selección múltiple con única respuesta. Selecciona la respuesta correcta:",
+  				"img": "img/hand.png"
+  			},
+        "id": 1,
+        "quest": "El nivel de clasificación de servicio de las empresas contratistas del Grupo Nutresa va de 1 a 4 y es el resultado de combinar:",
+  			"list": [
+  				{ "option": "a",
+  					"label": "El número de colaboradores de la empresa Vs la clase de riesgo de afiliación al sistema de riesgos laborales de los trabajadores que prestan el servicio a la empresa de Grupo. ",
+  					"correct": false
+  				},
+  				{
+  					"option": "b",
+  					"label": "La relación contractual (permanente, frecuente u ocasional) Vs el número de colaboradores de la empresa.",
+  					"correct": false
+  				},
+  				{
+  					"option": "c",
+  					"label": "Clase de riesgo de afiliación al sistema de riesgos laborales de los trabajadores que prestan el servicio a la empresa de Grupo VS la relación contractual (permanente, frecuente u ocasional).",
+  					"correct": true
+  				},
+  				{
+  					"option": "d",
+  					"label": "La clase de riesgo de afiliación al sistema de riesgos laborales de los trabajadores que prestan el servicio a la empresa de Grupo Vs el código CIIU relacionado en el RUT.",
+  					"correct": false
+  				}
+        ]
+		  },
+      {
+  			"instruccion": {
+  				"text": "Selección múltiple con única respuesta. Selecciona la respuesta correcta:",
+  				"img": "img/hand.png"
+  			},
+        "id": 2,
+        "quest": "Los interventores tienen roles y funciones enmarcadas en:",
+  			"list": [
+  				{ "option": "a",
+  					"label": "Inicio de actividades y finalización del servicio. ",
+  					"correct": false
+  				},
+  				{
+  					"option": "b",
+  					"label": "Aspectos contractuales, inicio de actividades, seguridad y salud en el trabajo, administrativas, y monitoreo del servicio. ",
+  					"correct": true
+  				},
+  				{
+  					"option": "c",
+  					"label": "Legales. ",
+  					"correct": false
+  				},
+  				{
+  					"option": "d",
+  					"label": "Ninguna de las anteriores.",
+  					"correct": false
+  				}
+        ]
+		  },
+      {
+  			"instruccion": {
+  				"text": "Selección múltiple con única respuesta. Selecciona la respuesta correcta:",
+  				"img": "img/hand.png"
+  			},
+        "id": 3,
+        "quest": "Una de las responsabilidades del interventor en el monitoreo al servicio es realizar la evaluación del desempeño del tercero a cargo por lo menos __________________ vez al año. ",
+  			"list": [
+  				{ "option": "a",
+  					"label": "3 (tres)",
+  					"correct": false
+  				},
+  				{
+  					"option": "b",
+  					"label": "1 (una)",
+  					"correct": true
+  				},
+  				{
+  					"option": "c",
+  					"label": "2 (dos)",
+  					"correct": false
+  				}
+        ]
+		  },
+      {
+  			"instruccion": {
+  				"text": "Selección múltiple con única respuesta. Selecciona la respuesta correcta:",
+  				"img": "img/hand.png"
+  			},
+        "id": 4,
+        "quest": "Entre los requerimientos que le aplican a todos los contratistas en las 4 clasificaciones de nivel de servicio es la afiliación y reporte de pago a _______________________integral.",
+  			"list": [
+  				{ "option": "a",
+  					"label": "Seguridad social",
+  					"correct": true
+  				},
+  				{
+  					"option": "b",
+  					"label": "Pensión",
+  					"correct": false
+  				},
+  				{
+  					"option": "c",
+  					"label": "Cesantias",
+  					"correct": false
+  				}
+        ]
+		  },
+      {
+        "instruccion": {
+  				"text": "Emparejamiento",
+  				"img": "img/hand.png"
+  			},
+        "id": 5,
+  			"quest": "Lleva cada residuo a su contenedor correspondiente.",
+  			"info": {
+  				"colors": "#9bc440",
+  				"labels": [
+  					{
+  						"p" : "a) Ley 1562 de 2012",
+  						"img": "",
+  						"pair" : 1
+  					},
+  					{
+  						"p" : "b) Decreto 1072 de 2015:",
+  						"img": "img/pair/b2.png",
+  						"pair" : 2
+  					},
+  					{
+  						"p" : "c) Resolución 312 de 2019:",
+  						"img": "img/pair/b3.png",
+  						"pair" : 3
+  					},
+  					{
+  						"p" : "d) Resolución 1565 de 2014: ",
+  						"img": "img/pair/b4.png",
+  						"pair" : 4
+  					},
+  					{
+  						"p" : "e) Resolución 1401 de 2007:",
+  						"img": "img/pair/b5.png",
+  						"pair" : 5
+  					}
+  				],
+  				"texts" :[
+  					{
+  						"p" : "Plan de seguridad vial.",
+  						"img": "img/pair/c1.png",
+  						"pair" : 4
+  					},
+  					{
+  						"p" : "Por la cual se definen los Estándares Mínimos del Sistema de Gestión de Seguridad y Salud en el Trabajo para empleadores y contratantes.",
+  						"img": "img/pair/c2.png",
+  						"pair" : 3
+  					},
+  					{
+  						"p" : "Reglamenta la investigación de incidentes y accidentes de trabajo.",
+  						"img": "img/pair/c3.png",
+  						"pair" : 5
+  					},
+  					{
+  						"p" : "Modifica el Sistema de Riesgos Laborales.",
+  						"img": "img/pair/c3.png",
+  						"pair" : 1
+  					},
+            {
+  						"p" : "Decreto Único Reglamentario del Sector Trabajo, reglamenta la implementación del Sistema de Gestión de Seguridad y Salud en el Trabajo.",
+  						"img": "img/pair/c3.png",
+  						"pair" : 2
+  					}
+  				]
+  			}
+      },
+      {
+  			"instruccion": {
+  				"text": "Falso o verdadero",
+  				"img": "img/hand.png"
+  			},
+        "id": 6,
+        "quest": "El nivel de clasificación de servicio de las empresas contratistas del Grupo Nutresa va de 1 a 4 y sirve para definir los requisitos aplicables según el nivel ",
+  			"list": [
+  				{ "option": "a",
+  					"label": "Verdadero",
+  					"correct": true
+  				},
+  				{
+  					"option": "b",
+  					"label": "Falso ",
+  					"correct": false
+  				}
+        ]
+		  },
+      {
+  			"instruccion": {
+  				"text": "Falso o verdadero",
+  				"img": "img/hand.png"
+  			},
+        "id": 7,
+        "quest": "El manual de contratistas se fundamenta en el Código de Conducta de Proveedores y tiene como objetivo dar a conocer los condiciones mínimas para la prestación de servicios a Grupo Nutresa ",
+  			"list": [
+  				{ "option": "a",
+  					"label": "Verdadero",
+  					"correct": true
+  				},
+  				{
+  					"option": "b",
+  					"label": "Falso ",
+  					"correct": false
+  				}
+        ]
+		  },
+      {
+  			"instruccion": {
+  				"text": "Falso o verdadero",
+  				"img": "img/hand.png"
+  			},
+        "id": 8,
+        "quest": "Si el contratista cumple los requerimientos del manual de contratistas ya no es necesario que cumpla con la demás normatividad vigente aplicable a su actividad económica. ",
+  			"list": [
+  				{ "option": "a",
+  					"label": "Verdadero",
+  					"correct": false
+  				},
+  				{
+  					"option": "b",
+  					"label": "Falso ",
+  					"correct": true
+  				}
+        ]
+		  },
+      {
+  			"instruccion": {
+  				"text": "Falso o verdadero",
+  				"img": "img/hand.png"
+  			},
+        "id": 9,
+        "quest": "El manual de interventores busca ser una fuente de información para facilitar que todos los colaboradores de la compañía conozcan, comprendan, cumplan y hagan cumplir las políticas, procedimientos, herramientas y metodologías definidas por el Grupo Empresarial Nutresa, para la gestión y contratación de proveedores de servicios, en adelante contratistas ",
+  			"list": [
+  				{ "option": "a",
+  					"label": "Verdadero",
+  					"correct": true
+  				},
+  				{
+  					"option": "b",
+  					"label": "Falso ",
+  					"correct": false
+  				}
+        ]
+		  },
+      {
+  			"instruccion": {
+  				"text": "Selección múltiple con única respuesta. Selecciona la respuesta correcta:",
+  				"img": "img/hand.png"
+  			},
+        "id": 10,
+        "quest": "Los siguientes son requerimientos en seguridad y salud en el trabajo aplicables a los contratistas que prestan el servicio en el Negocio:",
+  			"list": [
+  				{ "option": "a",
+  					"label": "Horarios de trabajo.",
+  					"correct": false
+  				},
+  				{
+  					"option": "b",
+  					"label": "Seguridad social, reporte de investigación de accidentes de trabajo",
+  					"correct": false
+  				},
+  				{
+  					"option": "c",
+  					"label": "Matriz de riesgos del servicio prestado en el Negocio, seguridad social",
+  					"correct": false
+  				},
+          {
+  					"option": "d",
+  					"label": "Listado de utensilios a utilizar en el trabajo",
+  					"correct": false
+  				},
+          {
+  					"option": "e",
+  					"label": "A y D son correctas",
+  					"correct": false
+  				},
+          {
+  					"option": "f",
+  					"label": "B y C son correctas",
+  					"correct": true
+  				}
+        ]
+		  }
+    ]
+  },
+
+  "backCover": {
+    "type": "endPage",
+    "title": "¡Has finalizado este módulo!",
+    "text": "Cierra la ventana para continuar.",
+    "img": "img/like.png"
+  },
+
+  "finishUnit": {
+    "title": "Has finalizado este tema",
+    "text": "A continuación haz clic en el ícono del menú para volver al principal y avanzar en un nuevo tema.",
+    "img": "img/check.png"
+  }
+}

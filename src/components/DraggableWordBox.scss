@@ -1,0 +1,80 @@
+@import "../resources/colors";
+@import "../resources/animation.scss";
+
+.draggableWordBox {
+  background-image: url('../assets/img/backgrounds/bg-mapaConceptual.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 300px;
+  .contentSlide {
+    .slideBox {
+      padding: 1.5rem;
+      width: 85%;
+      height: 195px;
+      .line-drop {
+        position: absolute;
+        width: 190px;
+        height: 40px;
+      }
+      .boxDrop {
+        position: absolute;
+        height: 23px;
+        background: #fff;
+        border-width: 1px;
+        border-style: dotted;
+        width: 70px;
+        padding: .4em;
+        .texBox {
+          color: #E8E8E8;
+          font-size: 12px;
+        }
+      }
+      .WordDropped {
+        border: none;
+        p {
+          color: $color4;
+        }
+      }
+    }
+
+    .buttonSlide {
+      background-color: rgba(0, 0, 0, 0);
+
+      .iconButton {
+        font-size: 2em;
+        color: $color1;
+        transition: all .3s;
+      }
+
+      &:hover {
+        .iconButton {
+          color: $color2;
+        }
+      }
+    }
+  }
+
+  .contentWords {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    top: 85px;
+    left: 142px;
+    .dragWord {
+      background: #E4E4E4;
+      border: 1px solid #A1Ad2d2d21A1;
+      width: 190px;
+      height: 23px;
+      padding: .4em;
+      margin: 3px;
+      box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.2);
+      border-radius: 3px;
+      &:nth-child(2n+2) {
+        margin-bottom: 13px;
+      }
+    }
+  }
+}

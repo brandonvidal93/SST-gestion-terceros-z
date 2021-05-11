@@ -1,0 +1,210 @@
+@import "../resources/colors.scss";
+@import "../resources/animation.scss";
+
+.footer {
+  position: absolute;
+  width: 65px;
+  height: 650px;
+  max-width: 1024px;
+  bottom: 0px;
+  right: 0px;
+  border-left: 1px solid #FF6A3D;
+  z-index: 1;
+  background-color: #fff;
+
+  .restrict {
+    position: absolute;
+    z-index: 2;
+    bottom: 92px;
+    right: 7px;
+    width: 51px;
+    height: 51px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .labelFooter {
+    width: 260px;
+    position: absolute;
+    bottom: 340px;
+    left: -101px;
+    z-index: 1;
+    transform: rotate(-90deg);
+
+    // &:after {
+    //   content: '';
+    //   position: absolute;
+    //   top: 8px;
+    //   left: 0;
+    //   width: 30px;
+    //   height: 1px;
+    //   background-color: $color2;
+    // }
+  }
+
+  .imageFooter {
+    position: absolute;
+    bottom: 21px;
+    right: 24px;
+    width: 145px;
+    margin: 0 auto;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .buttonPannel {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 110px;
+    bottom: 90px;
+    right: 9px;
+    z-index: 1;
+
+    .buttonNav {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      width: 45px;
+      height: 45px;
+      background-color: $color4;
+      border-radius: 50%;
+      border: 0;
+      text-align: center;
+      box-shadow: 0 3px 10px -4px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+      outline: none;
+      transition: all 0.4s;
+
+      .iconButton { pointer-events: none; color: $color1; }
+
+      &:hover {
+        background-color: $color2;
+        box-shadow: 0 8px 12px -5px rgba(0, 0, 0, 0.6);
+
+        .iconButton { color: $color4; }
+      }
+    }
+  }
+
+  .wave {
+    background: url('../assets/img/backgrounds/wave-2.png') repeat-x;
+    position: absolute;
+    bottom: -123px;
+    right: -39px;
+    width: 400px;
+    height: 198px;
+    // animation: wave 15s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+    transform: translate3d(0, 0, 0);
+    z-index: 0;
+    background-repeat: no-repeat;
+
+    &:nth-of-type(2) {
+
+      // animation: wave 27s cubic-bezier( 0.36, 0.45, 0.63, 0.53) -.125s infinite, swell 7s ease -1.25s infinite;
+      opacity: 1;
+    }
+  }
+}
+
+.footer-desc {
+  position: absolute;
+  width: 0px;
+  height: 650px;
+  max-width: 1024px;
+  bottom: 0px;
+  right: 0px;
+  z-index: 1;
+  border-left: 0px solid #FF6A3D;
+  background-color: none;
+
+  .labelFooter {
+    width: 260px;
+    position: absolute;
+    bottom: 340px;
+    left: -101px;
+    z-index: 1;
+    transform: rotate(-90deg);
+
+    // &:after {
+    //   content: '';
+    //   position: absolute;
+    //   top: 8px;
+    //   left: 0;
+    //   width: 30px;
+    //   height: 1px;
+    //   background-color: $color2;
+    // }
+  }
+
+  .imageFooter {
+    position: absolute;
+    bottom: 21px;
+    right: 24px;
+    width: 145px;
+    margin: 0 auto;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  .buttonPannel {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 110px;
+    bottom: 90px;
+    right: 9px;
+    z-index: 1;
+
+    .buttonNav {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      width: 45px;
+      height: 45px;
+      background-color: $color4;
+      border-radius: 50%;
+      border: 0;
+      text-align: center;
+      box-shadow: 0 3px 10px -4px rgba(0, 0, 0, 0.3);
+      cursor: pointer;
+      outline: none;
+      transition: all 0.4s;
+
+      .iconButton { pointer-events: none; color: $color1; }
+
+      &:hover {
+        background-color: $color2;
+        box-shadow: 0 8px 12px -5px rgba(0, 0, 0, 0.6);
+
+        .iconButton { color: $color4; }
+      }
+    }
+  }
+
+  .wave {
+    background: url('../assets/img/backgrounds/wave-2.png') repeat-x;
+    position: absolute;
+    bottom: -123px;
+    right: -39px;
+    width: 400px;
+    height: 198px;
+    // animation: wave 15s cubic-bezier( 0.36, 0.45, 0.63, 0.53) infinite;
+    transform: translate3d(0, 0, 0);
+    z-index: 0;
+    background-repeat: no-repeat;
+
+    &:nth-of-type(2) {
+      bottom: -123px;
+      right: -39px;
+      // animation: wave 27s cubic-bezier( 0.36, 0.45, 0.63, 0.53) -.125s infinite, swell 7s ease -1.25s infinite;
+      opacity: 1;
+    }
+  }
+}

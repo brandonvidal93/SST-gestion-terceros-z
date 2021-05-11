@@ -1,0 +1,53 @@
+@import "../resources/colors.scss";
+@import "../resources/animation.scss";
+
+.sliderDot {
+  margin: 0 auto;
+  .itemsContent {
+    transition: all .7s;
+
+    .Item {
+      background-color: #fff;
+      border-top: 5px solid #FF6A3D;
+      transition: all 1s;
+      cursor: pointer;
+      box-shadow: 0 8px 8px rgba(0, 0, 0, 0.1);
+
+      .menuInfo {
+        padding: 2em;
+      }
+    }
+
+    .disabledMenu {
+      filter: grayscale(1);
+      pointer-events: none;
+    }
+  }
+
+  .scrollMenu {
+    .buttonTheme {
+      background: none;
+      margin-right: .5em;
+      transition: all .3s;
+
+      &:last-child {
+        margin-right: 0em;
+      }
+
+      .iconButton {
+        color: $color1;
+        transition: all .5s;
+      }
+
+      .visited { color: $color9; }
+    }
+
+    .actived {
+      .iconButton {color: $color2; font-size: 1.3em;}
+    }
+
+    .visited {
+      .iconButton { color: $color9; }
+    }
+  }
+}

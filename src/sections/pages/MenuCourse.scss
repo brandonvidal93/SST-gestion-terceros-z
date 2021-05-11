@@ -1,0 +1,219 @@
+@import "../../resources/colors.scss";
+@import "../../resources/animation.scss";
+
+.menuContent {
+  min-height: 650px;
+  margin: 0 auto;
+  .itemsContent {
+    transition: all .7s;
+
+    .menuItem {
+      transition: all 1s;
+
+      .menuInfo {
+        position: absolute;
+        top: 14px;
+        right: 0px;
+        padding: 1em;
+        width: 45%;
+        height: 248px;
+
+        .buttonTheme {
+          width: 130px;
+          border: 1px solid $color4;
+          border-radius: 15px;
+          background: none;
+          color: $color4;
+          transition: all .4s;
+
+          &:hover {
+            background: $color4;
+            color: $color1;
+          }
+        }
+      }
+    }
+
+    .disabledMenu {
+      filter: grayscale(1);
+      pointer-events: none;
+    }
+    .disabledButton {
+      filter: grayscale(1);
+      pointer-events: none;
+      display: none;
+    }
+
+    .buttonTheme {
+      background-image: url('../../assets/img/backgrounds/lines-bg.png');
+      background-color: rgba(251, 251, 251, 0);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: contain;
+      width: 100px;
+      transition: all .4s;
+    }
+  }
+
+  .scrollMenu {
+    position: absolute;
+    left: 385px;
+    bottom: 20px;
+    .buttonTheme {
+      background: none;
+      margin-right: .5em;
+      transition: all .3s;
+
+      &:last-child {
+        margin-right: 0em;
+      }
+
+      .iconButton {
+        color: $color1;
+        transition: all .5s;
+      }
+
+      .visited { color: $color9; }
+    }
+
+    .actived {
+      .iconButton {color: $color2; font-size: 1.3em;}
+    }
+
+    .visited {
+      .iconButton { color: $color9; }
+    }
+  }
+
+  .bici {
+    width: 43px;
+    height: 58px;
+    background-image: url('../../assets/img/backgrounds/bici-1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+}
+
+.menuContent:before {
+  width: 100%;
+  height: 100%;
+  content: " ";
+  background-image: url('../../assets/img/backgrounds/bg-grid-1.png');
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 398px;
+  top: -106px;
+}
+
+// ANIMACIONES PARA LA BICICLETA DEL MENU
+
+@keyframes bikeMenu-1 {
+  0% {
+    transform: translate(0px, 0px);
+  }
+  100% {
+    transform: translate(80px, 45px);
+  }
+}
+
+@keyframes bikeMenu-2 {
+  0% {
+    transform: translate(80px, 44px);
+  }
+  10% {
+    transform: translate(100px, 60px) rotate3d(0, 1, 0, 30deg);
+  }
+  20% {
+    transform: translate(90px, 90px) rotate3d(0, 1, 0, 180deg);
+  }
+  70% {
+    transform: translate(-90px, 195px) rotate3d(0, 1, 0, 180deg);
+  }
+  80% {
+    transform: translate(-125px, 220px) rotate3d(0, 1, 0, 100deg);
+  }
+  100% {
+    transform: translate(-95px, 250px) rotate3d(0, 1, 0, 0deg);
+  }
+}
+
+@keyframes bikeMenu-3 {
+  0% {
+    transform: translate(-95px, 250px) rotate3d(0, 1, 0, 0deg);
+  }
+  100% {
+    transform: translate(185px, 410px) rotate3d(0, 1, 0, 0deg);
+  }
+}
+
+@keyframes bikeMenu-4 {
+  0% {
+    transform: translate(185px, 410px) rotate3d(0, 1, 0, 0deg);
+  }
+  100% {
+    transform: translate(295px, 475px) rotate3d(0, 1, 0, 0deg);
+  }
+}
+
+@keyframes bikeMenu-5 {
+  0% {
+    transform: translate(295px, 475px) rotate3d(0, 1, 0, 0deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  10% {
+    transform: translate(265px, 455px) rotate3d(0, 1, 0, 0deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  20% {
+    transform: translate(240px, 440px) rotate3d(0, 1, 0, 60deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  30% {
+    transform: translate(240px, 413px) rotate3d(0, 1, 0, 180deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  60% {
+    transform: translate(410px, 315px) rotate3d(0, 1, 0, 180deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  70% {
+    transform: translate(410px, 280px) rotate3d(0, 1, 0, 60deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  80% {
+    transform: translate(400px, 265px) rotate3d(0, 1, 0, 0deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  100% {
+    transform: translate(310px, 210px) rotate3d(0, 1, 0, 0deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+}
+
+@keyframes bikeMenu-6 {
+  0% {
+    transform: translate(310px, 210px) rotate3d(0, 1, 0, 0deg);
+    background-image: url('../../assets/img/backgrounds/bici-1.png');
+  }
+  29% {
+    transform: translate(400px, 265px) rotate3d(0, 1, 0, 0deg);
+    background-image: url('../../assets/img/backgrounds/bici-1.png');
+  }
+  30% {
+    transform: translate(430px, 250px) rotate3d(0, -1, 0, 180deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  60% {
+    transform: translate(490px, 210px) rotate3d(0, 1, 0, 180deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  70% {
+    transform: translate(490px, 190px) rotate3d(0, 1, 0, 110deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+  100% {
+    transform: translate(485px, 180px) rotate3d(0, 1, 0, 0deg);
+    background-image: url('../../assets/img/backgrounds/bici-2.png');
+  }
+}
